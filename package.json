@@ -26,12 +26,12 @@
       "redux-devtools": "^3.7.0"
     },
     "repository": {
-      "type": "git",
-      "url": "git+"
+      "type": "githttps://github.com/callen996/22-redux-store",
+      "url": "git+https://github.com/callen996/22-redux-store"
     },
     "bugs": {
-      "url": ""
+      "url": "https://github.com/callen996/22-redux-store"
     },
-    "homepage": ""
+    "homepage": "https://github.com/callen996/22-redux-store"
   }
   
